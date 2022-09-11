@@ -93,6 +93,10 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
 }
 
+body {
+  background: url("../../img/01.jpg") 0 0 no-repeat;
+}
+
 h1 {
   font-size: 30px;
   color: #fff;
